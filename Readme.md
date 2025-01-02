@@ -81,7 +81,7 @@ RestAPIAutomationPython/
 
 2. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sitanshupt5/RestAPIAutomationPython.git
    cd RestAPIAutomationPython
    ```
 
