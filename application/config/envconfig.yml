@@ -1,0 +1,5 @@
+dev:
+  host_uri: "https://api.spotify.com/"
+  token_uri: "https://accounts.spotify.com/"
+  clientId: "741b43fa9e074083846009494d9edf85"
+  clientSecret: "57aadc4f529e44348066130888b4adac"
